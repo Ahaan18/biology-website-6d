@@ -1,0 +1,35 @@
+.heading{
+    width:100%;
+}
+.heading h3{
+    display:inline;
+}
+.heading button{
+    float:right;
+    border:1px solid white;
+}
+body{
+    background-size:cover;
+}
+.credit{
+    bottom: 0;
+    width: 100%;
+position:fixed;
+text-align: center;
+background-color:gray;
+color: white;
+line-height: 2.5;
+}
+.white{
+    color:white;
+}
+.button1{
+    font-size:40px;
+}
+#source{
+    font-size:17px;
+    bottom: 0;
+}
+.font17px{
+    font-size:17px;
+}
